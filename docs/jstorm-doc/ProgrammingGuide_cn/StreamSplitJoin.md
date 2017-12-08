@@ -24,7 +24,7 @@ layout: plain_cn
 
 # 分流
 
-分流有2钟情况，第一种是，相同的tuple发往下一级不同的bolt， 第二种，分别发送不同的tuple到不同的下级bolt上。
+分流有2种情况，第一种是，相同的tuple发往下一级不同的bolt， 第二种，分别发送不同的tuple到不同的下级bolt上。
 
 ## 发送相同tuple
 
